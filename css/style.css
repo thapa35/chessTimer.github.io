@@ -1,0 +1,22 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+#container {
+    
+    border: 2px solid red;
+    position: relative;
+}
+#timer {
+    background-color: blue;
+    height: 100%;
+}
+#counter {
+    border-radius: 50%;
+    border: 2px solid blue;
+    margin: 25% auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
